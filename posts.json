@@ -2,22 +2,6 @@
  "base_url": "https://raw.githubusercontent.com/shivh6464/instagram/main/media/",
  "items": [
   {
-   "id": "D01_C",
-   "date": "2026-11-16",
-   "time_ist": "12:30",
-   "caption": "5 reasons most option buyers lose money 📉\n\n1. Time decay never sleeps\n2. Far OTM = lottery ticket\n3. Oversized positions\n4. No exit plan\n5. Emotional trading\n\nWhich one have you faced? Tell us in the comments 👇\n\n📚 Follow for daily trading education. Free learning group: link in bio.\n\n⚠️ For educational purposes only. Not a buy or sell recommendation.\nSLM is not a SEBI-registered investment adviser or research analyst.\n\n#stockmarketindia #sharemarket #tradingeducation #learntrading #stockmarketforbeginners #smartliquiditymanagement #slm #optionstrading #optionbuying #niftybanknifty #riskmanagement",
-   "type": "carousel",
-   "images": [
-    "https://raw.githubusercontent.com/shivh6464/instagram/main/media/D01_C_01.jpg",
-    "https://raw.githubusercontent.com/shivh6464/instagram/main/media/D01_C_02.jpg",
-    "https://raw.githubusercontent.com/shivh6464/instagram/main/media/D01_C_03.jpg",
-    "https://raw.githubusercontent.com/shivh6464/instagram/main/media/D01_C_04.jpg",
-    "https://raw.githubusercontent.com/shivh6464/instagram/main/media/D01_C_05.jpg",
-    "https://raw.githubusercontent.com/shivh6464/instagram/main/media/D01_C_06.jpg",
-    "https://raw.githubusercontent.com/shivh6464/instagram/main/media/D01_C_07.jpg"
-   ]
-  },
-  {
    "id": "D01_R2",
    "date": "2026-11-16",
    "time_ist": "18:30",
@@ -307,5 +291,8 @@
   "RELIANCE_1D_OB (15 Nov)",
   "D01_R1 (15 Nov)",
   "B2_01 (15 Nov, posted early on request)"
+ ],
+ "scheduled_in_meta": [
+  "D01_C (2026-11-16 12:30)"
  ]
 }
